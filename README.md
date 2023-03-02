@@ -4,8 +4,8 @@ Il seguente è un programma della categoria di gestione dati.
 Si tratta di un programma che permette la gestione dei dati di un cinema (in questo caso specifico di un multisala)
 
 ## Struttura
-  - “main.py”: è il programma principale, necessario per l’esecuzione del programma
-  - “funzioni.py”: contiene alcune tra le funzioni create per il funzionamento del programma
+**src**: contiene i file .py per eseguire il programma
+**resources**: contiene le risorse del programma
   - “utenti.txt”: contiene i dati (username e password) dei vari utenti che si sono registrati all’interno del programma
   - “tariffe.txt”: contiene una lista in cui si trovano i nomi delle tariffe (giorni della settimana e ridotti) e il prezzo di quest’ultime
   - “listafilm.txt”: è un file che contiene titolo, giorno, ora e sala di proiezione di tutti gli spettacoli inseriti all’interno del programma
