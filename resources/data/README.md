@@ -1,0 +1,3 @@
+- **utenti.txt**: contiene i dati (username e password) dei vari utenti che si sono registrati all’interno del programma
+- **tariffe.txt**: contiene una lista in cui si trovano i nomi delle tariffe (giorni della settimana e ridotti) e il prezzo di quest’ultime
+- **listafilm.txt**: contiene titolo, giorno, ora e sala di proiezione di tutti gli spettacoli inseriti all’interno del programma
