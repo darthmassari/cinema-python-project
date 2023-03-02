@@ -1,7 +1,0 @@
-lunedi 3,30
-martedi 7,20
-mercoledi 5,50
-giovedi 5,00
-venerdi 6,00
-sabato 5,50
-domenica 5,50
