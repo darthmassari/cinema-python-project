@@ -1,6 +1,7 @@
 # ProgettoCinema
 Progetto in Python del corso di Fondamenti di Informatica del CdL in Ingegneria dell'Informazione 2020/2021.   
-Il seguente è un programma della categoria di gestione dati, che permette la gestione dei dati di un cinema (in questo caso un multisala)
+Il seguente è un programma della categoria di gestione dati, che permette la gestione dei dati di un cinema (in questo caso un multisala)   
+Il programma si presenta con interfaccia a linea di comando, non essendo dotato di GUI
 
 ## Struttura
 - **src**: contiene i file .py per eseguire il programma
