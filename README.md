@@ -20,6 +20,6 @@ Questa operazione stampa su schermo (a seconda del numero di posti richiesti), l
 - **Tornare alla sezione precedente**
 
 ## Alcune note
-- Il funzionamento del programma è analizzato in maniera più dettagliata all’interno del codice 
+- Il programma è documentato in maniera più dettagliata all’interno del codice 
 - Il programma non permette l'inserimento di uno spettacolo con titolo del film già presente 
 - Il programma è stato sviluppato con scarse conoscenze di programmazione
